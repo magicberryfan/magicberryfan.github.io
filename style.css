@@ -1,0 +1,79 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: burlywood;
+}
+
+#make-fucking-big-small-look-bad li {
+    font-size: 32px;
+}
+
+#fukc-me-in-the-ass {
+    grid-area: twink-cum;
+}
+
+#banner {
+    width: 100%;
+}
+
+#stuff-wrapper {
+    margin: 5%;
+}
+
+.gay-furry {
+    background-color:orchid;
+    padding: 15px;
+    border-radius: 30px;
+    border: 5px solid;
+    border-color: blueviolet;
+}
+
+#blueberry-porn {
+    display: block;
+    width: 8%;
+    height: 6vw;
+    left: 26%;
+    top: 8vw;
+    position: absolute;
+}
+
+.reptile {
+    font-style: italic;
+    font-weight: bolder;
+}
+
+#stuff-wrapper {
+    display: grid;
+    grid-template-areas: 
+        "shit-know . twinks"
+        ". . ."
+        "stop-typing . twink-cum"
+    ;
+    grid-template-columns: 1fr 20px 1fr;
+    grid-template-rows: 1fr 20px 1fr;
+}
+
+#fucking-twinks {
+    grid-area: twinks;
+    display: block;
+}
+
+#shit-you-should-know {
+    grid-area: shit-know;
+}
+
+.telephone-pole:hover {
+    cursor: pointer;
+}
+
+.a-person-or-smth {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+#why-the-fuck-is-the-blueberry-man-popular-also-this-id-is-kinda-long-lol-maybe-i-should-stop-typing-now {
+    grid-area: stop-typing;
+}
